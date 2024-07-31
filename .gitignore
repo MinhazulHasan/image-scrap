@@ -1,0 +1,8 @@
+.env
+__pychache__
+/__pychache__
+*/__pychache__
+*/__pychache__/*
+env
+env/*
+/scrapEnv
